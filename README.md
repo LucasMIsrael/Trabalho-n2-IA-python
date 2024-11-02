@@ -4,6 +4,10 @@ OBS: Caso necessário, rodar os comandos 'pip install scikit-fuzzy', 'pip instal
 
 Para executar cada código, basta digitar o comando 'python nomeDoArquivo.py' no terminal do projeto no VsCode, e inserir os dados solicitados/desejados para efetuar a lógica daquele arquivo.
 
+Documentação:
+[Documentação e breve explicação das três soluções desenvolvidas.pdf](https://github.com/user-attachments/files/17605058/Documentacao.e.breve.explicacao.das.tres.solucoes.desenvolvidas.pdf)
+
+
 Comparação das soluções:
 
 1.Análise Comparativa
